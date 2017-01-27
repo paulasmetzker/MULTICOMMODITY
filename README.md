@@ -2,8 +2,7 @@
 Projet de Multiflot ISIMA ZZ2 
 
 Tuteur: M. Philippe Mahey
-Développement: ALVES COTA Lara
-               METZKER SOARES Paula
+Développement: METZKER SOARES Paula
                
 Thème de projet: Multicommodity Capadited Network
 Objectifs:
